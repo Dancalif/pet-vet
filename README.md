@@ -1,7 +1,11 @@
-#Pet-vet Project
+#Pet-Vet Application
 
-Pet-vet Project
+The app that works with a pet registration and vet processing.
 
-Tha app that works with the pet registration.
+* Junit
+* Java
+* Maven
+* Classes and subclasses
+* Inheritance
 
 [Denis Umanets](http://sqasolution.com)
