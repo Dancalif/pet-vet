@@ -4,7 +4,7 @@
   <artifactId>pet-vet</artifactId>
   <version>1.0 -SNAPSHOT</version>
   <name>Pet Vet Project</name>
-  <description>App for a pet registration</description>
+  <description>App for a pet registration and vet processing</description>
   <dependencies>
   <dependency>
    <groupId>junit</groupId>
