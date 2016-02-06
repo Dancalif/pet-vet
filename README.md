@@ -1,9 +1,7 @@
-#Basic Project
+#Pet-vet Project
 
-Basic Java Maven Project Structure
+Pet-vet Project
 
-*QA
-*Java
-*Maven
+Tha app that works with the pet registration.
 
 [Denis Umanets](http://sqasolution.com)
